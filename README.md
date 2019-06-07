@@ -20,5 +20,7 @@ UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-15: ordi
 1. 爬取到最后一页的时候，不能够停止，会一直爬取最后一页
 2. 爬取失败的论文列表需要保存下来，最后进行重试
 
+##
+源码来自tom523，在此鸣谢
 
 
