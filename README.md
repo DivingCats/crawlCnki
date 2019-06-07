@@ -21,6 +21,6 @@ UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-15: ordi
 2. 爬取失败的论文列表需要保存下来，最后进行重试
 
 ##
-源码来自tom523，在此鸣谢
+源码来自tom522，在此鸣谢
 
 
